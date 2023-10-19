@@ -1,2 +1,2 @@
-# CalculadoraIMC
-Projeto final do curso, Programação em PYTHON.
+# Calculadora IMC
+#### Projeto final do curso, Programação em PYTHON.
